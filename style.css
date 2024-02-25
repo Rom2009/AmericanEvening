@@ -55,6 +55,12 @@ form{
 }
 form p{
     font-weight: bold;
+    font-size: 20pt;
+    letter-spacing: 5px;
+}
+form p#text{
+    font-size: 18pt;
+    letter-spacing: normal;
 }
 footer{
     text-align: center;
@@ -68,3 +74,4 @@ form button {
     margin-top: 50px;
     font-weight: bold;
 }
+
